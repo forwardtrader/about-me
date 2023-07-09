@@ -4,6 +4,4 @@ Binance Pay ID: 214572980
 
 
 BTC Address: 15jg2dgfczTq2pQFw7WRDvhEKcyvyaFZzP
-Github: github.com/forwardtrader
-
 
